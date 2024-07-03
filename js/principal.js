@@ -15,8 +15,10 @@ Pago que realiza Luis 25$
 Pago que realiza Ana 6.25$
 Pago que realiza José 25$
 Pago que realiza Carmen 6.25$
+
 Total Ganado 62.5$
 Porcentaje de rumberas mayores a 21 años: 50% 
+El sexo que mas asistio a la discoteca fue : AMBOS POR IGUAL
 
 */
 import Cl_rumbero from "./Cl_rumbero.js";
